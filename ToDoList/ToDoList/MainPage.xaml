@@ -4,8 +4,6 @@
              xmlns:local="clr-namespace:ToDoList"
              x:Class="ToDoList.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+	
 
 </ContentPage>
